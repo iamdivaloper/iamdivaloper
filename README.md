@@ -47,8 +47,6 @@
 </p>
 -->
 
-<br>
-
 ## Let's connect?
 
 <p align="left" style="background:yellow">
@@ -58,16 +56,13 @@
 </a>
 -->
 <a href="https://linkedin.com/in/jessicalopess" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="mailto:iamdivaloper@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-<a href="https://twitter.com/iamdivaloper" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://instagram.com/iamdivaloper" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+<!-- <a href="mailto:iamdivaloper@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail"/>
+</a> -->
+<a href="https://x.com/iamdivaloper" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" alt="twitter"/>  
 </a>
 
 <!--
@@ -76,6 +71,11 @@
 </a>
 -->
 </p>
+
+<br>
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/divaloper)
+
 
 
 <!--
